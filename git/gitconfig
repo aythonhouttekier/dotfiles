@@ -1,0 +1,7 @@
+[aython]
+	houttekier = aythonhouttekier
+[aython "houttekier@student.vives"]
+	be = aython.houttekier@student.vives.be\n
+[user]
+	email = aython.houttekier@student.vives.be\n
+	name = aythonhouttekier
