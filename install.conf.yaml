@@ -6,7 +6,6 @@
 
 - link:
     ~/.dotfiles: ''
-    ~/.vim: vim
     ~/.zshrc: zsh/zshrc
     ~/.gitconfig: git/gitconfig
 
